@@ -1,6 +1,6 @@
  applications:
  - name: vue-tutorial
-     path: ./dist
+     path: https://github.com/junixsevilla/vue-js-tutorial
      buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
      random-route: true
      memory: 256M

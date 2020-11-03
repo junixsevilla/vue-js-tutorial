@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>Deploy php app and Cloudant database onto IBM Cloud.</p>
+    <p>Create Continuous Integration (CI) and Continuous Delivery (CD) pipeline to <br> deploy vue.js app on IBM Cloud.</p>
     <!--<p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
